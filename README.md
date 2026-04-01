@@ -27,7 +27,7 @@ This project allows users to browse workouts, view exercise details, and calcula
 ![Home](Screenshot/home.png)
 
 ### 💪 Exercise Details
-![Exercise](Screenshot/Card Exercise.png)
+![Exercise](Screenshot/Card.png)
 
 ### 📊 BMI Calculator
 ![BMI](Screenshot/Bmi.png)
