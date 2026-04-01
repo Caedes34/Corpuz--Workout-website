@@ -45,4 +45,22 @@ This project allows users to browse workouts, view exercise details, and calcula
 
 ---
 
-## 📂 Project Structure
+
+
+## ⚙️ How to Run
+
+1. Download or clone the repository
+2. Open `index.html` in your browser
+
+---
+
+## 📌 Notes
+
+- This project was created as part of a college project.
+- UI design is inspired by modern fitness platforms.
+
+---
+
+## 👤 Author
+
+**Rafael Luaña**
