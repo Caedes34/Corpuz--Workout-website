@@ -27,13 +27,13 @@ This project allows users to browse workouts, view exercise details, and calcula
 ![Home](images/home.png)
 
 ### 💪 Exercise Details
-![Exercise](images/exercise.png)
+![Exercise](images/Card Exercise.png)
 
 ### 📊 BMI Calculator
-![BMI](images/bmi.png)
+![BMI](images/Bmi.png)
 
 ### 📌 Pinned Workouts
-![Pinned](images/pinned.png)
+![Pinned](images/Pin.png)
 
 ---
 
