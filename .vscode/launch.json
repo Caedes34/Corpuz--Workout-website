@@ -5,20 +5,20 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "msedge",
+      "type": "firefox",
       "request": "launch",
       "name": "Open index.html",
       "file": "C://Program Projects//OFFICIAL CORPUZ WEBSITE//index.html"
     },
 
     {
-      "type": "msedge",
+      "type": "chrome",
       "request": "launch",
       "name": "Open RESULTS.html",
       "file": "C://Program Projects//OFFICIAL CORPUZ WEBSITE//RESULTS PAGE.html"
     },
     {
-      "type": "msedge",
+      "type": "firefox",
       "request": "launch",
       "name": "Open info page.html",
       "file": "C://Program Projects//OFFICIAL CORPUZ WEBSITE//info-Page.html"
