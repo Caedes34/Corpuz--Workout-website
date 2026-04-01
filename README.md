@@ -3,60 +3,46 @@
 ### \*\*Created by: Group 1 - BSIT1-12
 
 _A website that provides workout guides._
+# 🏋️ Corpuz Workout Web App
+
+A simple workout web application built using **HTML, CSS, and JavaScript**.  
+This project allows users to browse workouts, view exercise details, and calculate BMI.
 
 ---
 
-## **📥 Download & Installation Guide**
+## 🚀 Features
 
-1. Download the project files(Press "Code" and download zip).
-2. Unzip the downloaded file.
-3. Open `HOMEPAGE.HTML` in a web browser to start using the website.
-
----
-
-## **📌 Usage Guide**
-
-- **Search for Workouts:** Use the search bar to find workouts by name, body part, equipment, muscle, or exercise type.
-- **Category Search:** Click on a category button for quick access to specific workout types.
-- **BMI Calculator:** Use the built-in BMI calculator to track fitness progress.
-- **Pinned Workouts:** Save your favorite workouts for easy access.
+- 🔍 Search and filter workouts
+- 🏋️ Categorized exercises (Cardio, Strength, Stretching, etc.)
+- 📌 Pin/favorite workouts
+- 📖 Detailed exercise instructions
+- 📊 BMI Calculator
+- 🎨 Clean and responsive UI
 
 ---
 
-## **🔥 Features**
+## 📸 Screenshots
 
-✔ **Search Workouts** by:
+### 🏠 Home Page
+![Home](images/home.png)
 
-- Name
-- Body Part
-- Equipment
-- Muscle Name
-- Exercise Type
+### 💪 Exercise Details
+![Exercise](images/exercise.png)
 
-✔ **Categorical Search** – Find workouts based on predefined categories.  
-✔ **BMI Calculator** – Calculate and track Body Mass Index.  
-✔ **Pinned Workouts** – Save workouts for future reference.
+### 📊 BMI Calculator
+![BMI](images/bmi.png)
 
----
-
-🛠 **Prototype Files:**
-
-- `MAIN MENU`, `PROTOTYPES`, and `WEBSITE APPEARANCE FILES` are **test files** used for developing features.
-- You **can modify them** to integrate with `HOMEPAGE.HTML`.
+### 📌 Pinned Workouts
+![Pinned](images/pinned.png)
 
 ---
 
-### ✅ **Improvements Made:**
+## 🛠️ Tech Stack
 
-✔ Clear **headings and formatting** for easy readability.  
-✔ Used **bullet points** instead of long paragraphs.  
-✔ **Emphasized key points** (e.g., API Key requirement).  
-✔ **More structured layout** to make it look professional.
-
-## **🔧 Installation & Dependencies**
-
-This project uses **HTML, CSS, and JavaScript** (no additional package installations needed).
-
-However, an **API key is required** to fetch workout data.
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
 ---
+
+## 📂 Project Structure
